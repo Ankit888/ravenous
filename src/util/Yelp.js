@@ -1,4 +1,4 @@
-const apiKey = "O6XBec1v7xWofYMfbg86iG3bgz9cQbxu6cexNjB4-xvgFZRr7zij9Ga7ny_5vQpspG5jM2NdQAv03mb7QnGqhyi75tgpJCKxOqOoMQDRn14mZc8eihKzRdJKmJ0mXXYx";
+const apiKey = "YELP API KEY";
 
 const Yelp = {
 
